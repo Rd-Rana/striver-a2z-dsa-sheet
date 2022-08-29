@@ -14,3 +14,9 @@ Date: 27-08-2022 (Saturday)
 Day #2
 
 - Pattern Problems (8-11): Link - https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
+
+Date: 29-08-2022 (Monday)
+
+Day #3
+
+- Pattern Problems (12-18): Link - https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
