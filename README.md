@@ -27,3 +27,9 @@ Date: 01-09-2022 (Thursday)
 Day #4
 
 - Pattern Problem (22): Link - https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
+
+Reference link (YT video help): https://youtu.be/lsOOs5J8ycw?t=2701
+
+02-09-2022 to 04-09-2022
+
+No work (due to health issues)
