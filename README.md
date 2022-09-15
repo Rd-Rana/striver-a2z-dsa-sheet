@@ -33,3 +33,10 @@ Reference link (YT video help): https://youtu.be/lsOOs5J8ycw?t=2701
 02-09-2022 to 04-09-2022
 
 No work (due to health issues)
+
+Date: 15-09-2022 (Thursday)
+
+Day #5
+
+- Time and Space Complexity: Link - https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+- Revision of Pattern Problems (1 to 22)
