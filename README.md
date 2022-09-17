@@ -35,4 +35,3 @@ Reference link (YT video help): https://youtu.be/lsOOs5J8ycw?t=2701
 Day #5
 
 - Time and Space Complexity: Link - https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
-- Revision of Pattern Problems (1 to 22)
