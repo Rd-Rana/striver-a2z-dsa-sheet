@@ -35,3 +35,14 @@ Reference link (YT video help): https://youtu.be/lsOOs5J8ycw?t=2701
 Day #5
 
 - Time and Space Complexity: Link - https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+
+-> Was not able to maintain consistency!! :(
+
+-> Date: 22-09-2022 (Thursday)
+
+Day #6
+
+- Time and Space Complexity: Link - https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+- Revising and practicing STL (from notes): Video Link - https://www.youtube.com/watch?v=RRVYpIET_RU (watched in past but had not practiced)
+- Pairs
+- Vectors (not completed)
