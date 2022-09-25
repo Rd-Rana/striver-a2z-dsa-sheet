@@ -46,3 +46,10 @@ Day #6
 - Revising and practicing STL (from notes): Video Link - https://www.youtube.com/watch?v=RRVYpIET_RU (watched in past but had not practiced)
 - Pairs
 - Vectors (not completed)
+
+-> Date: 24-09-2022 (Saturday)
+
+Day #7
+
+- Vectors
+- Lists
