@@ -53,3 +53,11 @@ Day #7
 
 - Vectors
 - Lists
+
+-> Date: 25-09-2022 (Sunday)
+
+Day #8
+
+- Deques
+- Stacks
+- Queues
