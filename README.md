@@ -61,3 +61,13 @@ Day #8
 - Deques
 - Stacks
 - Queues
+
+-> Date: 26-09-2022 (Monday)
+
+Day #9
+
+- Priority Queue
+- Set
+- Lower Bound
+- Upper Bound
+- Multiset
