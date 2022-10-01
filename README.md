@@ -86,3 +86,4 @@ Day #11
 - Multimap
 - Unordered Map
 - C++ STL Algorithms
+- Basic Maths Problem (1): Link - https://practice.geeksforgeeks.org/problems/count-digits5716/1
