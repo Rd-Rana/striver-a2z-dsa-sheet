@@ -87,3 +87,10 @@ Day #11
 - Unordered Map
 - C++ STL Algorithms
 - Basic Maths Problem (1): Link - https://practice.geeksforgeeks.org/problems/count-digits5716/1
+
+-> Date: 02-10-2022 (Sunday)
+
+Day #12
+
+- Basic Maths Problem (2): Link - https://practice.geeksforgeeks.org/problems/reverse-bits3556/1
+- Basic Maths Problem (3): Link - https://practice.geeksforgeeks.org/problems/palindrome0746/1
