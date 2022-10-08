@@ -94,3 +94,12 @@ Day #12
 
 - Basic Maths Problem (2): Link - https://practice.geeksforgeeks.org/problems/reverse-bits3556/1
 - Basic Maths Problem (3): Link - https://practice.geeksforgeeks.org/problems/palindrome0746/1
+
+-> Date: 08-10-2022 (Saturday)
+
+Day #13
+
+- Basic Maths Problem (4): Link - https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
+- Basic Maths Problem (5): Link - https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
+- Basic Maths Problem (6): Link - https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1 [TLE Error]
+- Basic Maths Problem (7) [Too easy]
