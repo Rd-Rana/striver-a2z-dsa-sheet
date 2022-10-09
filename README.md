@@ -103,3 +103,12 @@ Day #13
 - Basic Maths Problem (5): Link - https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
 - Basic Maths Problem (6): Link - https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1 [TLE Error]
 - Basic Maths Problem (7) [Too easy]
+
+-> Date: 09-10-2022 (Sunday)
+
+Day #14
+
+- Basic Maths Problem (6): Link - https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1 | Reference Link for floor function: https://en.wikipedia.org/wiki/Floor_and_ceiling_functions
+- Basic Recursion Problem (1): Link - https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1
+- Basic Recursion Problem (2): Link - https://practice.geeksforgeeks.org/problems/print-gfg-n-times/1
+- Basic Recursion Problem (3): Link - https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
