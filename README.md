@@ -112,3 +112,12 @@ Day #14
 - Basic Recursion Problem (1): Link - https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1
 - Basic Recursion Problem (2): Link - https://practice.geeksforgeeks.org/problems/print-gfg-n-times/1
 - Basic Recursion Problem (3): Link - https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
+
+-> Date: 10-10-2022 (Monday)
+
+Day #15
+
+- Basic Recursion Problem (4): Link - https://practice.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1
+- Basic Recursion Problem (5): Link - https://practice.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0
+- Basic Recursion Problem (6)
+- Basic Recursion Problem (7): Link - https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 [Wrong Answer is coming for some test cases]
