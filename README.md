@@ -122,3 +122,10 @@ Day #15
 - Basic Recursion Problem (6)
 - Basic Recursion Problem (7): Link - https://practice.geeksforgeeks.org/problems/palindrome-string0817/1 [Wrong Answer is coming for some test cases]
 - Basic Recursion Problem (8): Link - https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1 (Iterative approach problem)
+
+-> Date: 11-10-2022 (Tuesday)
+
+Day #16
+
+- Basic Recursion Problem (7): Link - https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
+- Basic Hashing Problem (1): Link - https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0
