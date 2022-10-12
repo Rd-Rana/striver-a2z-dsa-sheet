@@ -129,3 +129,9 @@ Day #16
 
 - Basic Recursion Problem (7): Link - https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
 - Basic Hashing Problem (1): Link - https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0
+
+-> Date: 12-10-2022 (Wednesday)
+
+Day #17
+
+- Basic Hashing Problem (2): Link - https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1 [Error coming]
