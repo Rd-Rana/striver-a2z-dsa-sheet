@@ -135,3 +135,7 @@ Day #16
 Day #17
 
 - Basic Hashing Problem (2): Link - https://practice.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1 [Error coming]
+
+-> Date: 13-10-2022 (Thursday)
+
+- Not able to do due to Mid-2 Examination
