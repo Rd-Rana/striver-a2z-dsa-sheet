@@ -139,3 +139,7 @@ Day #17
 -> Date: 13-10-2022 (Thursday)
 
 - Not able to do due to Mid-2 Examination
+
+-> Date: 14-10-2022 (Friday)
+
+- Not able to do due to Mid-2 Examination
