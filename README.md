@@ -143,3 +143,7 @@ Day #17
 -> Date: 14-10-2022 (Friday)
 
 - Not able to do due to Mid-2 Examination
+
+-> Date: 15-10-2022 (Saturday)
+
+- Not done anything
