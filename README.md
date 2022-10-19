@@ -147,3 +147,15 @@ Day #17
 -> Date: 15-10-2022 (Saturday)
 
 - Not done anything
+
+-> Date: 16-10-2022 (Sunday)
+
+- Not done anything
+
+-> Date: 17-10-2022 (Monday)
+
+- Not done anything
+
+-> 18-10-2022 (Tuesday)
+
+- Not done anything
