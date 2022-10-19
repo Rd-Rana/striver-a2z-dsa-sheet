@@ -162,4 +162,6 @@ Day #17
 
 -> Date: 19-10-2022 (Wednesday)
 
-Basic Hashing Problem (2): Link - https://practice.geeksforgeeks.org/problems/maximum-repeating-number4858/1
+- Basic Hashing Problem (2): Link - https://practice.geeksforgeeks.org/problems/maximum-repeating-number4858/1
+- Sorting Techniques (1): Link - https://practice.geeksforgeeks.org/problems/selection-sort/1
+- Sorting Techniques (2): Link - https://practice.geeksforgeeks.org/problems/bubble-sort/1
