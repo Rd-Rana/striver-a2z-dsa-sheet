@@ -159,3 +159,7 @@ Day #17
 -> 18-10-2022 (Tuesday)
 
 - Not done anything
+
+-> Date: 19-10-2022 (Wednesday)
+
+Basic Hashing Problem (2): Link - https://practice.geeksforgeeks.org/problems/maximum-repeating-number4858/1
