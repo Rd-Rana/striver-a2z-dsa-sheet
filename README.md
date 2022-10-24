@@ -173,3 +173,11 @@ Day #17
 -> Date: 21-10-2022 (Friday)
 
 - Sorting Techniques (3): Link - https://practice.geeksforgeeks.org/problems/insertion-sort/0
+
+-> Date: 23-10-2022 (Sunday)
+
+- Sorting Techniques (4): Link - https://practice.geeksforgeeks.org/problems/merge-sort/1 [Wrong Answer]
+
+-> Date: 24-10-2022 (Monday)
+
+- Sorting Techniques (4): Link - https://practice.geeksforgeeks.org/problems/merge-sort/1
