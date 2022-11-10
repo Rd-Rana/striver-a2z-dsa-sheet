@@ -162,6 +162,8 @@ Day #17
 
 -> Date: 19-10-2022 (Wednesday)
 
+Day #18
+
 - Basic Hashing Problem (2): Link - https://practice.geeksforgeeks.org/problems/maximum-repeating-number4858/1
 - Sorting Techniques (1): Link - https://practice.geeksforgeeks.org/problems/selection-sort/1
 - Sorting Techniques (2): Link - https://practice.geeksforgeeks.org/problems/bubble-sort/1
@@ -172,12 +174,24 @@ Day #17
 
 -> Date: 21-10-2022 (Friday)
 
+Day #19
+
 - Sorting Techniques (3): Link - https://practice.geeksforgeeks.org/problems/insertion-sort/0
 
 -> Date: 23-10-2022 (Sunday)
+
+Day #20
 
 - Sorting Techniques (4): Link - https://practice.geeksforgeeks.org/problems/merge-sort/1 [Wrong Answer]
 
 -> Date: 24-10-2022 (Monday)
 
+Day #21
+
 - Sorting Techniques (4): Link - https://practice.geeksforgeeks.org/problems/merge-sort/1
+
+-> Date: 10-11-2022 (Thursday)
+
+Day #22
+
+- Sorting Techniques (5)
